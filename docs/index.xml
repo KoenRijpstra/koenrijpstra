@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Koen Rijpstra</title>
+    <link>http://koenrijpstra.com/</link>
+    <description>Recent content on Koen Rijpstra</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>nl-nl</language>
+    
+	<atom:link href="http://koenrijpstra.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
