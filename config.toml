@@ -1,0 +1,4 @@
+baseURL = "http://koenrijpstra.com/"
+languageCode = "nl-nl"
+title = "Koen Rijpstra"
+theme = "ananke"
